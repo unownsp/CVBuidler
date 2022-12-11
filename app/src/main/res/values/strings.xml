@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">CV Builder Application</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    <string name="cv">CV</string>
+
+    <string name="add">Add</string>
+
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">Saugat Pageni</string>
+    <string name="position">Android Developer</string>
+
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>Completed</b> on-campus studies and currently taking distance education courses to complete a Master\'s Degree in Computer Science (Working as a full-time employee at <b>Collabera</b>).</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Language: </b>Java, Kotlin, Dart, Flutter, JavaScript\n<b>Frameworks/web: </b>Spring, Hibernate, JDBC \n<b>Microservices/Cloud: </b>Docker, Kafka \n<b>Databases: </b>SQL, MySQL, MongoDB \n<b>Tools: </b>Android Studio, Eclipse, Maven, GitHub, GitLab, StarUML \n</string>
+
+    <string name="about_me_desc">Skilled developer with over 5 years of experience developing and testing mobile Android applications for a variety of uses, following the complete Software Development Life Cycle. Proficient with back-end development, database design, dependency injection, and user interface implementation, with solid problem solving and debugging skills using Kotlin, Java, Dart, Flutter, and Android Studio.</string>
+
+    <string name="education">Education</string>
+    <string name="my_college">My College</string>
+    <string name="certification">Certification</string>
+
+    <string name="my_contacts">My Contacts</string>
+
+    <string name="information_to_share">
+        Name: Saugat Pageni
+        LinkedIn Profile: https://www.linkedin.com/in/saugat-pageni/
+    </string>
+
+    <string name="email">saugatpageni@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/saugat-pageni/</string>
+    <string name="github_profile">https://github.com/unownsp</string>
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+</resources>
